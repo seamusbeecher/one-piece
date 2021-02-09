@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## General info
+This is a One Piece website to display infomation requarding the episode number entered.
+	
+## Technologies
+Front-end Technologies 
+* React / react-router-dom
+* Axios
+* React Hooks
+
+Back-End
+* Express
+* Cors
+* Request
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ npm install
+$ npm start
+```
