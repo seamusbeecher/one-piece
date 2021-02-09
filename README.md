@@ -94,6 +94,3 @@ $ npm start
 $ cd onepiece
 $ npm start
 ```
-
-## Link
-https://clone-409d0.web.app/
