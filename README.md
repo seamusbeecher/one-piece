@@ -84,9 +84,13 @@ Back-End
 * Request
 	
 ## Setup
+In order to run this open two termianals, one for the front end (onepiece) and one for the backend (backend)
 To run this project, install it locally using npm:
 
 ```
 $ npm install
+$ cd backend
+$ npm start
+$ cd onepiece
 $ npm start
 ```
